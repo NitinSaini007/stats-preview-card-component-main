@@ -19,14 +19,14 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 70%;
+    width: 75%;
     height: 60vh;
     border-radius: 10px;
 }
 
 h1{
     color: hsl(0, 0%, 100%);
-    padding: 55px 100px 0px 55px;
+    padding: 35px 47px 25px 55px;
     font-size: 31px;
 }
 
@@ -48,6 +48,7 @@ h1{
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
     height: 60vh;
+    width: 36vw;
 }
 
 .violet{
